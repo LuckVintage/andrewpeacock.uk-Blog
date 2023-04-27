@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Andrew's Blog"
+title = "Andrew's Angle"
 theme = "ghostwriter"
 languageCode = "en-gb"
 copyright = "Andrew Peacock"
@@ -8,11 +8,13 @@ disqusShortname = "andrewpeacock"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "Andrew Peacock's Blog"
+    headline = "ANDREW'S ANGLE"
+    description = "Welcome to Andrew's Angle, where I offer my unique perspective and opinions on a wide range of topics. Through my blog, I share insights and stories from my life and experiences, exploring the world through my personal lens. Join me on a journey of discovery and new angles on life through thought-provoking articles and opinion pieces."
     github = "https://github.com/LuckVintage"
     twitter = "https://twitter.com/AndrewPeacockUK"
     opengraph = true
     shareTwitter = true
+    shareFacebook = true
     dateFormat = "Mon, 2 Jan, 2006"
     readingTime = "true"
     readingTimeText = "Estimated reading time:"

@@ -1,18 +1,28 @@
 baseurl = "/"
 title = "Andrew's Blog"
 theme = "ghostwriter"
+copyright = "Andrew Peacock"
+disqusShortname = "XXX"
 
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
-    github = "https://github.com/XXX"
-    twitter = "https://twitter.com/XXX"
-    email = "XXX@example.com"
+    headline = "Andrew Peacock's Blog"
+    github = "https://github.com/LuckVintage"
+    twitter = "https://twitter.com/AndrewPeacockUK"
     opengraph = true
     shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
+    dateFormat = "Mon, 2 Jan, 2006"
 
 [Permalinks]
     post = "/:filename/"
+
+[[menu.main]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Contact"
+url = "/page/contact/"
+weight = 2

@@ -1,8 +1,9 @@
 baseurl = "/"
 title = "Andrew's Blog"
 theme = "ghostwriter"
+languageCode = "en-gb"
 copyright = "Andrew Peacock"
-disqusShortname = "XXX"
+disqusShortname = "andrewpeacock"
 
 [Params]
     mainSections = ["post"]
@@ -13,6 +14,9 @@ disqusShortname = "XXX"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, 2 Jan, 2006"
+    readingTime = "true"
+    readingTimeText = "Estimated reading time:"
+    rss = true
 
 [Permalinks]
     post = "/:filename/"

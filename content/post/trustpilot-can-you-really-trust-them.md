@@ -2,6 +2,7 @@
 title = "Trustpilot - Can You Really Trust Them?"
 date = 2023-04-27T11:58:19.316Z
 author = "Andrew Peacock"
+draft = "true"
 +++
 
 In November last year, I decided I would sign up for an account with Trustpilot. I'm always shopping online and I get invited to leave reviews quite frequently, so making an account made sense. After creating my account, I thought it would be a good idea to verify my ID. Once doing so, I get a verified checkmark next to all reviews that I post as well as on my profile. If you hover over the checkmark, it says:

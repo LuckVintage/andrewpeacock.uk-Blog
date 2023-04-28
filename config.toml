@@ -20,6 +20,10 @@ disqusShortname = "andrewpeacock"
     readingTimeText = "Estimated reading time:"
     rss = true
 
+[author]
+name = "Andrew Peacock"
+profile = "/page/contact/"
+
 [Permalinks]
     post = "/:filename/"
 

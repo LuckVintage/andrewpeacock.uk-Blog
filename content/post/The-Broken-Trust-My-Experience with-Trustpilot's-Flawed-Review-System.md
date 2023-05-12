@@ -1,6 +1,6 @@
 +++
 title = "THE BROKEN TRUST: MY EXPERIENCE WITH TRUSTPILOT'S FLAWED REVIEW SYSTEM"
-date = 2023-05-12T15:20:24.145Z
+date = 2023-05-12T09:05:10.465Z
 author = "Andrew Peacock"
 draft = "false"
 +++

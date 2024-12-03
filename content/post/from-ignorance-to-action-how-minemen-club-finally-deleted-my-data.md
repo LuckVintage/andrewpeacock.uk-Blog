@@ -1,6 +1,6 @@
 +++
 title = "FROM IGNORANCE TO ACTION: HOW MINEMEN CLUB FINALLY DELETED MY DATA"
-date = 1733232981
+date = 1733233289
 author = "Andrew Peacock"
 draft = "false"
 +++

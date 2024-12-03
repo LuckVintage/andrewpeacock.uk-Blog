@@ -11,6 +11,11 @@ The introduction of Twitter Blue was one of the first major and controversial ch
 
 {{< tweet user="alexisconran" id="1650430909655445505" >}}
 
+> Fake Disney account gets gold check.
+>
+> The verification process is now officially broken. Security has to work on trust. It’s quite clear the system is flawed and cannot be trusted. pic.twitter.com/rjbFrrUELO
+> — Alexis Conran (@alexisconran) April 24, 2023
+
 
 If you're interested in reading more about this specific case, I recommend checking out [this news article](https://www.bbc.co.uk/news/technology-65374723) that the BBC published on their website. Twitter has already made it hard enough to distinguish genuine accounts from fake ones with the removal of legacy checkmarks, and the fact that anyone can create an account and subscribe to Twitter Blue. However, giving a very clearly fake account the golden checkmark is unacceptable and severely damages the trust that was left in Twitter. If an account has a golden checkmark, you would assume that it is the real deal - Twitter even says they're verified because they are an official business on Twitter. But you cannot even believe that anymore. Another big impersonation case I am aware of is Martin Lewis. An account was set up in his name and subscribed to Twitter Blue. When Martin tried to get the scam account taken down, he was met with a poop emoji when emailing Twitter's Press Office. Having this as an automatic reply is outrageous - you would really think a big company like Twitter would be more professional. I do have to give credit to Twitter, though, because the account did not have the gold checkmark for too long before it was rightfully suspended from the platform.
 

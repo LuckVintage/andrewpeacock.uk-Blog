@@ -4,6 +4,7 @@ theme = "ghostwriter"
 languageCode = "en-gb"
 copyright = "Andrew Peacock"
 disqusShortname = "andrewpeacock"
+ignoreErrors = ["error-remote-getjson"]
 
 [Params]
     mainSections = ["post"]

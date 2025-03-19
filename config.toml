@@ -12,14 +12,15 @@ ignoreErrors = ["error-remote-getjson"]
     headline = "ANDREW'S ANGLE"
     description = "Welcome to Andrew's Angle, where I offer my unique perspective and opinions on a wide range of topics. Through my blog, I share insights and stories from my life and experiences, exploring the world through my personal lens. Join me on a journey of discovery and new angles on life through thought-provoking articles and opinion pieces."
     github = "https://github.com/LuckVintage"
-    twitter = "https://twitter.com/AndrewPeacockUK"
+    twitter = "https://www.threads.net/@andrewpeacockuk"
+    email = "dpo@privacy.andrewpeacock.uk"
     opengraph = true
-    shareTwitter = true
+    shareTwitter = false
     shareFacebook = true
     dateFormat = "Mon, 2 Jan, 2006"
     readingTime = "true"
     readingTimeText = "Estimated reading time:"
-    rss = true
+    rss = false
 
 [author]
 name = "Andrew Peacock"

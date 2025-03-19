@@ -1,0 +1,30 @@
++++
+title = "DENIED BEFORE I EVEN JOINED: TIKTOK’S BROKEN MODERATION SYSTEM"
+date = 1742387692
+author = "Andrew Peacock"
+draft = "false"
++++
+
+Minecraft recently released the Menace Cape, a limited-time cosmetic item that players can only obtain between March 18, 2025, and April 6, 2025. To unlock it, you must watch a Minecraft creator for at least three minutes on TikTok to receive a redemption code. I don’t have a TikTok account and wasn’t too keen on making one, but I figured I’d go through the process just to claim the cape before it was gone forever.
+
+I went to the App Store on my phone and searched for and downloaded TikTok. I went to make an account and entered my date of birth as it was the first thing I was asked for. I was then asked to either enter my mobile number or continue with my email address. I decided to use my email address. They sent a code to my email, which I promptly entered, and to my surprise, I received a pop-up message saying that my account had been banned! No reason for the ban was provided, they just told me that my account has been banned.
+
+![TikTok Ban Message](/images/tiktokbanmessage.png#center)
+
+Obviously, this was a big mistake. All I had done was attempt to create an account, I don't understand what I could have possibly done to trigger an account ban so hastily. Thankfully, there was an option to submit an appeal if I thought they made a mistake, so I clicked the appeal button and filled out the form. I had to enter an appeal description and an email address for them to send the result. Since I didn't actually do anything wrong, at least nothing that I knew about, there wasn't much I could really say other than explain that I just made the account and got banned before they would let me finish creating it. I submitted the appeal.
+
+![TikTok Appeal Form](/images/tiktokappeal.png#center)
+
+4 minutes later, I received an email from TikTok. It was not good news! Apparently, my account "has violated our Community Guidelines and cannot be restored." I am so confused. What Community Guidelines did my account violate? The only thing I had done on the app was attempt to make an account and get banned while doing so. I haven't even been able to use TikTok yet. The ban message is very vague, even if I have somehow done something wrong, I have no idea what! I can only assume that attempting to sign up for a TikTok account must be a violation of their community guidelines...
+
+![TikTok Appeal Email](/images/tiktokappealemail.png#center)
+
+I had an almost identical experience with Instagram back in May 2024, but the difference with Instagram compared to TikTok was Instagram accepted my appeal, after realising it was a clear mistake on their end.
+
+Considering how quickly my TikTok account was banned, while literally setting it up, I can only assume the ban was done by some kind of AI system. As we all probably know by now, AI isn't perfect and it can very much so make mistakes. I went into this with a lot more detail in my blog post about the same thing happening with Instagram. But I think this case with TikTok is worse. There's almost no doubt that AI was used in the decision-making to ban my account, but I also feel AI was used to automatically reject my appeal. I received a response in less than 5 minutes after submitting the appeal. TikTok is a massive app, they are going to have a lot of support requests and appeals to go through. Is a human really going to review my appeal minutes after submitting it? I just can't see that happening. While I can't say for sure, I do strongly feel that AI was used again. Any human would easily be able to see there were no grounds for my account to be banned. It's pretty difficult to break the Community Guidelines while setting up your account, and after reading them, I can very confidently say I did not break them.
+
+I'm not at all happy with the decision TikTok made to reject my appeal. I wanted to appeal again, and maybe actually talk to a human about this. However, I was not able to find an option to submit another appeal. The app does not give me the option. So despite TikTok very clearly making a mistake, I have no choice other than to accept their incorrect decision. Looks like I won't be getting that Menace Cape after all!
+
+![TikTok Appeal App Message](/images/tiktokappealrejected.png#center)
+
+I have no idea what triggered the initial ban, but it's pretty clear it was all done automatically and no human was involved. I fully understand that TikTok may want to use AI to help moderate the platform, but if too many innocent users are being banned, then clearly the system isn't fit for purpose and needs some major changes. It would also be nice to know exactly what aspect of the Community Guidelines I had apparently violated. I don't know how many people are getting innocently banned when attempting to create an account, but I suspect it's not just me. I wouldn't be too bothered about this, but TikTok did not make it right when they had the opportunity, instead, they rejected my appeal. As I said above, I can't say with any degree of certainty that AI was used to reject my appeal, but either way, TikTok needs to have competent humans reviewing appeals. AI simply can't be trusted at this stage, and if the appeal really is the final decision, it makes everything even worse. If they are using AI to ban accounts and monitor appeals, there needs to be an option to contact a human being. Computers very much so make mistakes, and in my opinion, should not be fully trusted to make important decisions, such as accepting or rejecting appeals. My experience raises serious concerns about AI being used as a replacement for humans in moderation. If AI is banning users without reason and rejecting appeals automatically, how many innocent people are getting turned away from TikTok and not being able to do a single thing about it?

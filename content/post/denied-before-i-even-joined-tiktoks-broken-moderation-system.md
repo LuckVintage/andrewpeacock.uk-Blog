@@ -5,7 +5,7 @@ author = "Andrew Peacock"
 draft = "false"
 +++
 
-Minecraft recently released the Menace Cape, a limited-time cosmetic item that players can only obtain between March 18, 2025, and April 6, 2025. To unlock it, you must watch a Minecraft creator for at least three minutes on TikTok to receive a redemption code. I don’t have a TikTok account and wasn’t too keen on making one, but I figured I’d go through the process just to claim the cape before it was gone forever.
+Minecraft recently released the Menace Cape, a limited-time cosmetic item that players can only obtain between 18th March 2025, and 6th April 2025. To unlock it, you must watch a Minecraft creator for at least three minutes on TikTok to receive a redemption code. I don’t have a TikTok account and wasn’t too keen on making one, but I figured I’d go through the process just to claim the cape before it was gone forever.
 
 I went to the App Store on my phone and searched for and downloaded TikTok. I went to make an account and entered my date of birth as it was the first thing I was asked for. I was then asked to either enter my mobile number or continue with my email address. I decided to use my email address. They sent a code to my email, which I promptly entered, and to my surprise, I received a pop-up message saying that my account had been banned! No reason for the ban was provided, they just told me that my account has been banned.
 
